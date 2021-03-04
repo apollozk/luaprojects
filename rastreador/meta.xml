@@ -1,0 +1,6 @@
+<meta>
+	<oop>true</oop>
+
+	<script src="apolloG.lua" type="shared" />
+	<script src="apolloS.lua" type="server" />
+</meta>

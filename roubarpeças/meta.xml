@@ -1,0 +1,7 @@
+<meta>
+	<script src="apolloG.lua" type="shared" download="false" />
+	<script src="apolloC.lua" type="client" download="false" />
+	<script src="apolloS.lua" type="server" download="false" />
+
+	<oop>true</oop>
+</meta>
